@@ -54,5 +54,39 @@
 5. **Review Report**: Analyze your Accuracy %, Grade, and Final Score. Compare your answer with the provided "Reference Answer" to see what technical keywords you missed.
 
 
+**Screenshots & Result**:
+
+
+"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\1.png"
+
+
+
+"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\2.png"
+
+
+
+"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\3.png"
+
+
+
+
+
+"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\4.png"
+
+
+
+"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\5.png"
+
+
+
+"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\6.png"
+
+
+
+
+
+
+
+
 
 
