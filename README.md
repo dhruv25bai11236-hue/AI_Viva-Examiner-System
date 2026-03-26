@@ -57,29 +57,28 @@
 **Screenshots & Result**:
 
 
-"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\1.png"
+<img width="1370" height="269" alt="1" src="https://github.com/user-attachments/assets/e7af7a5d-8fc8-48ea-81e8-4ed7e00b90d5" />
+
+<img width="590" height="249" alt="2" src="https://github.com/user-attachments/assets/05bc576f-9922-426b-9be4-a9e8f00d4688" />
+
+
+<img width="824" height="164" alt="3" src="https://github.com/user-attachments/assets/2d339a74-9156-468a-9af3-bd9c55868b49" />
+
+
+<img width="464" height="99" alt="4" src="https://github.com/user-attachments/assets/4939de7e-fa0b-401a-9f8e-24abd2002ab0" />
+
+
+<img width="826" height="83" alt="5" src="https://github.com/user-attachments/assets/3a67f5ca-deea-423c-8962-154b13245b26" />
 
 
 
-"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\2.png"
 
-
-
-"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\3.png"
+<img width="1816" height="879" alt="6" src="https://github.com/user-attachments/assets/f2f751ad-0f6a-4ab4-941e-c351c4dd97dd" />
 
 
 
 
 
-"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\4.png"
-
-
-
-"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\5.png"
-
-
-
-"C:\Users\Dhruv\OneDrive\Pictures\Screenshots\6.png"
 
 
 
